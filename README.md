@@ -3,6 +3,9 @@
 A simple and responsive Music Player App built using HTML, CSS, and JavaScript.  
 It allows users to play, pause, and switch between locally stored songs with a sleek and clean UI.
 
+
+Live Link : - https://raghav-rk.github.io/Music-app/
+
 ## 🚀 Features
 
 - Play, pause, next, and previous buttons  
